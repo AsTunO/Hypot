@@ -38,5 +38,4 @@ brd3.pack(side = RIGHT, fill = Y)
 brd4 = Label(janela,text = '   ',bg = 'Black')
 brd4.pack(side = LEFT, fill = Y)
 
-
 janela.mainloop()
