@@ -44,8 +44,6 @@ Hello! Welcome, a project developed by students from UNIFACOL, Facol University,
 - Run the .py file 
 
 
-
-
 ## Licence
 
 Copyright (c) 2021 JULIO CESAR
